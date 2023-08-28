@@ -1,0 +1,12 @@
+[submodule "java"]
+	path = java
+	url = https://github.com/petcomputacaoufrgs/castorJava.git
+[submodule "python"]
+	path = python
+	url = https://github.com/petcomputacaoufrgs/castorPython.git
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/petcomputacaoufrgs/castorCPP.git
+[submodule "c"]
+	path = c
+	url = https://github.com/petcomputacaoufrgs/castorC.git
