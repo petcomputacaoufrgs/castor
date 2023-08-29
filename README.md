@@ -1,5 +1,21 @@
 # <img src="https://www.inf.ufrgs.br/pet/images/castor.png" alt="drawing" width="25"/> Projeto Castor
 
+## Instruções de Instalação
+
+### Caso não tenha baixado o repositório ainda, utilize o seguinte comando para baixar o repositório e seus submódulos
+
+```shell
+git clone --recurse-submodules https://github.com/petcomputacaoufrgs/castor2
+```
+
+### Ou caso ja tenha baixado o repositório, utilize o seguinte comando para baixar os submódulos
+
+```shell
+git submodule update --init --recursive
+```
+
+### Ou ainda, caso queira utilizar somente uma linguagem, clique em sua pasta e baixe o repositório
+
 ## Descrição Geral
 
 O Projeto Castor tem como objetivo disponibilizar aos alunos da UFRGS diversas ferramentas que auxiliem os alunos com tarefas de desenvolvimento, em principal tarefas de build.
