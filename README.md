@@ -28,12 +28,13 @@ O projeto tem o objetivo de possibilitar aos alunos usarem diferentes ambientes 
 
 ## Como Usar
 
-Este repositório é dividido em duas partes:
+Este repositório é dividido em diversas linguagens e ambientes. Cada um deles é seu próprio repositório, e pode ser utilizado de forma independente.
 
-- Scripts:
-  - Dentro dessa pasta encontram-se os scripts e arquivos necessários para cada linguagem.
-- Tutoriais:
-  - Dentro dessa pasta encontram-se informações uteis, recomendações e passo-a-passo de como utilizar os scripts.
+Caso deseje baixar todos os ambientes, basta clonar o repositório principal e utilizar os submódulos.
+
+Para utilizar somente um dos ambientes, basta clonar seu repositório.
+
+Após o download, simplesmente siga as instruções de instalação e uso presentes em cada um deles.
 
 ## Contribuindo para o projeto
 
