@@ -1,16 +1,16 @@
 [submodule "java"]
 	path = java
-	url = https://github.com/petcomputacaoufrgs/castorJava.git
+	url = https://github.com/petcomputacaoufrgs/castor-java.git
 	branch = main
 [submodule "python"]
 	path = python
-	url = https://github.com/petcomputacaoufrgs/castorPython.git
+	url = https://github.com/petcomputacaoufrgs/castor-python.git
 	branch = main
 [submodule "cpp"]
 	path = cpp
-	url = https://github.com/petcomputacaoufrgs/castorCPP.git
+	url = https://github.com/petcomputacaoufrgs/castor-cpp.git
 	branch = main
 [submodule "c"]
 	path = c
-	url = https://github.com/petcomputacaoufrgs/castorC.git
+	url = https://github.com/petcomputacaoufrgs/castor-c.git
 	branch = main
