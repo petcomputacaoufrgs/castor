@@ -14,3 +14,7 @@
 	path = c
 	url = https://github.com/petcomputacaoufrgs/castor-c.git
 	branch = main
+[submodule "fcg"]
+	path = fcg
+	url = https://github.com/petcomputacaoufrgs/castor-fcg.git
+	branch = main
